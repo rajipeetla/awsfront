@@ -30,11 +30,11 @@ export default function Home() {
         centered
       />
       <Header as="h1" color="red">
-        eCommerce Application
+        HAPPY SHOPPING 
       </Header>
       <Header as="h3">
-        Ecommerce
-        AWS CaseStudy
+        SHOPPING IS AN INDEPENDENT CHOICE
+       
       </Header>
       {greeting}
     </Container>
